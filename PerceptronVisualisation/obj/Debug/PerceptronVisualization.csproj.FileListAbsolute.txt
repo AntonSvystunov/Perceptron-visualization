@@ -12,3 +12,10 @@ E:\Универ\Прога\Лабораторные работы\PerceptronVisua
 E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe.config
 E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.exe
 E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.pdb
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.pdb
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualization.csprojResolveAssemblyReference.cache
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.LineEnterForm.resources
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.MainForm.resources
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.Properties.Resources.resources
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualization.csproj.GenerateResource.Cache

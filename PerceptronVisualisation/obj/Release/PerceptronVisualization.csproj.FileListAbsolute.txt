@@ -1,0 +1,9 @@
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Release\PerceptronVisualisation.exe.config
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Release\PerceptronVisualisation.exe
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Release\PerceptronVisualisation.pdb
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Release\PerceptronVisualisation.LineEnterForm.resources
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Release\PerceptronVisualisation.MainForm.resources
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Release\PerceptronVisualisation.Properties.Resources.resources
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Release\PerceptronVisualization.csproj.GenerateResource.Cache
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Release\PerceptronVisualisation.exe
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Release\PerceptronVisualisation.pdb

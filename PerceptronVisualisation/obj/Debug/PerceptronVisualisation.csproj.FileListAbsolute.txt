@@ -1,0 +1,9 @@
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe.config
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.pdb
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.csprojResolveAssemblyReference.cache
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.Properties.Resources.resources
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.csproj.GenerateResource.Cache
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.exe
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.pdb
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.MainForm.resources

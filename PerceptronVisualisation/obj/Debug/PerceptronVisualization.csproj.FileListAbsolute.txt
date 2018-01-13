@@ -1,0 +1,14 @@
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe.config
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.pdb
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.MainForm.resources
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.Properties.Resources.resources
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualization.csproj.GenerateResource.Cache
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.exe
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.pdb
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.LineEnterForm.resources
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe.CodeAnalysisLog.xml
+E:\Универ\Прога\Лабораторные работы\PerceptronVisualisation\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe.lastcodeanalysissucceeded
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\bin\Debug\PerceptronVisualisation.exe.config
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.exe
+E:\Git\Source\Perceptron-visualization\PerceptronVisualisation\obj\Debug\PerceptronVisualisation.pdb
